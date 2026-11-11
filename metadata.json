@@ -1,0 +1,6 @@
+{
+  "name": "Madurai Sri Kala Kendira",
+  "description": "Premier South Indian classical arts academy in Madurai. Founded in 1984 with 26 world records in Bharatanatyam, Kuchipudi, and folk arts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
